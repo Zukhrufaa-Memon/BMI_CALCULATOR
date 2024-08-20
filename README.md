@@ -1,6 +1,7 @@
 # bmi_calculator
 
 A new Flutter project.
+![Project Screenshot](https://www.canva.com/design/DAGOYiKV_pU/NGCvxMFe2hPRBKUXl9Y_ig/view?utm_content=DAGOYiKV_pU&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 ## Getting Started
 
